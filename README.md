@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**PriyaLade/PriyaLade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working as a Frontend Developer. <br />
+🌍 Based in Mumbai, India. <br />
+🛠 Mostly code in JavaScript, Next.js and React.js. <br />
+👯 I’m looking to collaborate on any JavaScript, Next.js and/or React.js open source projects. <br />
+💬 Ask me about JavaScript, Next.js, CSS & anything related to React.js. <br />
+📫 How to reach me: Email me! <br />
+🥅 Goals for 2022: Contribute more often to Open Source, Participate frequently in online events & code challenges.
 
-Here are some ideas to get you started:
+<!-- [![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyaLade&count_private=true&theme=radical)] -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+
