@@ -8,9 +8,11 @@
 📫 How to reach me: Email me! <br />
 🥅 Goals for 2022: Contribute more often to Open Source, Participate frequently in online events & code challenges.
 
-<!-- [![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyaLade&count_private=true&theme=radical)] -->
+<!-- [![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyaLade&count_private=true&theme=radical)] 
 
 <hr />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+
+-->
 
